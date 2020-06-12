@@ -1,0 +1,19 @@
+p {
+    color: coral;
+}
+
+h4 {
+    color: fuchsia;
+}
+
+h3 {
+    color: darkred;
+}
+
+h1 {
+    text-align: center;
+}
+
+.social-icon {
+    height: 20px;
+}
